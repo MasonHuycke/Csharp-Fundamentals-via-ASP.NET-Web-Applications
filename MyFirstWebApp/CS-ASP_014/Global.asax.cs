@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyFirstChallange
+namespace CS_ASP_014
 {
 	public class Global : System.Web.HttpApplication
 	{
